@@ -44,9 +44,9 @@ export function GameResult({ gameData }: { gameData: GameResultMetadata }) {
           href="https://venmo.com/kevinchoart" 
           target="_blank" 
           rel="noopener noreferrer"
-          className="text-sm text-gray-500 hover:text-blue-700 transition-colors"
+          className="text-sm text-blue-400 hover:text-blue-700 transition-colors"
         >
-          donate to the artist on venmo: @kevinchoart
+        wanna buy the artist a drink? venmo: @kevinchoart
         </a>
       </div>
     </div>
