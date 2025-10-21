@@ -39,6 +39,16 @@ export function GameResult({ gameData }: { gameData: GameResultMetadata }) {
         <p className="text-xl text-gray-600">{score}</p>
         {formattedDate && <p className="text-lg text-gray-500">{formattedDate}</p>}
       </div>
+      <div className="mt-16">
+        <a 
+          href="https://venmo.com/kevinchoart" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className="text-sm text-gray-500 hover:text-blue-700 transition-colors"
+        >
+          donate to the artist on venmo: @kevinchoart
+        </a>
+      </div>
     </div>
   );
 }
