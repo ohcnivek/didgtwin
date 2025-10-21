@@ -1,4 +1,4 @@
-## [did gt win .com?](www.didgtwin.com)
+## [did gt win .com](https://didgtwin.com)
 nuff said
 
 ## development
