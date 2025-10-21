@@ -1,17 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Did GT win?
+## [did gt win .com?](www.didgtwin.com)
 nuff said
 
-
-
-## For Development
-```bash
+## development
+```
 yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000).
 
-## Donate to the Artist 
-
+## donate to the artist 
 [venmo: @kevinchoart](https://venmo.com/kevinchoart)
+
+
+fyi: this is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
